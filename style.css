@@ -1,0 +1,44 @@
+.img {
+    border-radius: 120px;
+}
+
+body {
+    max-width: 1062px;
+    width: 100%;
+    margin: auto;
+    background: url('./img/header') no-repeat center;
+    height: 100%;
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: cpase-around;
+    margin-top: 24px;
+    margin-bottom: 200px;
+}
+
+.menu-list {
+    display: flex;
+    list-style-type: none;
+}
+
+.menu-item:not(:last-child) {
+    margin-right: 63px;
+}
+
+.menu-item a{
+    text-decoration: none;
+    color: black;
+}
+
+.active {
+    font-weight: bold;
+}
+
+
+.main-text {
+    font-weight: 500;
+    font-size: 53px;
+    line-height: 63px;
+}
