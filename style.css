@@ -79,8 +79,8 @@ ul {
 
 .g {
     color: #111;
-    margin-right: 5px;
-    margin-left: 10px;
+    margin-right: 80px;
+    margin-left: 20px;
 }
 
 .cards {
@@ -94,4 +94,43 @@ ul {
 
 .ppp {
     margin-left: 70px;
+}
+
+.but {
+    font-family: none;
+    margin-left: 220px;
+    border: 2px solid #000;
+    font-weight: bold;
+    width: 110px;
+    padding: 10px;
+    background-color: gainsboro;
+}
+
+.but p {
+    margin: 0;
+    color: black;
+}
+
+.footer {
+    background-color: rgb(216, 216, 216);
+    border: 3px solid rgb(226, 228, 223);
+    border-radius: 10px 10px 0 0;
+    margin-top: 50px;
+    margin-bottom: auto;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.c {
+    color: black;
+    font-weight: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.d {
+    color: black;
+    font-weight: 10px;
+    margin-left: 20px;
+    margin-top: 50px; 
 }
