@@ -70,11 +70,12 @@ body {
 ul {
     list-style-type: none;
     font-family: 'Comfortaa', sans-serif;
+    margin-left: 35px;
 }
 
 .title {
     margin-top: 30px;
-    margin-left: 35px;
+    margin-left: 70px;
 }
 
 .g {
@@ -90,11 +91,12 @@ ul {
     color: #111;
 
     margin-top: 70px;
+    margin-left: 20px;
 }
 
 .ppp {
     margin-left: 50px;
-    margin-right: 100px;
+    margin-right: 50px;
 }
 
 .but {
@@ -171,7 +173,7 @@ ul {
     
     color: #ffffff;
     
-    border: 1px solid rgb(255, 253, 253);
+    border: 1px solid rgb(100, 100, 100);
     border-radius: 30px;
     background-color: rgba(77, 77, 77, 0.582);
 }
@@ -236,6 +238,10 @@ ul {
     display: inline-block;
     text-decoration: none;
     text-transform: uppercase;
+    padding: 10px 30px;
+    margin-top: 30px;
+    color: #fff;
+    background-color: #a7a5a5;
 }
 
 .desp {
