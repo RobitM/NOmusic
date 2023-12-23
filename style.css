@@ -265,11 +265,12 @@ ul {
 
 .questions{
     margin-top: 50px;
+    width: 1245px;
 }
 
 .in {
     background-color: #c4c4c4;
-    margin-right: 60%;
+    margin-right: 100px;
     margin-top: 5px;
     margin-left: 50px;
     padding: 5px 30px;
@@ -387,8 +388,4 @@ ul {
 
 .z{
     border-radius: 50px;
-}
-
-.itog{
-    display: flex;
 }
