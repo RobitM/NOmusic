@@ -263,6 +263,11 @@ ul {
     margin-right: 30px;
 }
 
+.body{
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 15px;
+}
+
 .info {
     background-color: #f9f9ff;
     padding: 10px 25px;
