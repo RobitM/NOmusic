@@ -263,13 +263,18 @@ ul {
     margin-right: 30px;
 }
 
-.info {
+.questions{
+    margin-top: 50px;
+}
+
+.in {
     background-color: #c4c4c4;
-    margin-right: 70%;
-    margin-top: 30px;
+    margin-right: 60%;
+    margin-top: 5px;
     margin-left: 50px;
     padding: 5px 30px;
     border-radius: 5px;
+    font-size: 20px;
 }
 
 .info_switch {
@@ -281,11 +286,11 @@ ul {
 
     max-height: 0;
     overflow: hidden;
-    transition: 0.4s;
+    transition: 0.4s
 }
 
 .info_switch:checked~.info_body {
-    max-height: 100px;
+    max-height: 10000px;
 }
 
 .info_headline::before{
