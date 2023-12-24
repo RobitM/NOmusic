@@ -101,7 +101,6 @@ ul {
 }
 
 .but {
-    font-family: none;
     margin-left: 200px;
     border: 2px solid #000;
     font-weight: bold;
@@ -139,7 +138,6 @@ ul {
 
 .d {
     color: black;
-    font-weight: 10px;
     margin-left: 20px;
     margin-top: 50px; 
 }
